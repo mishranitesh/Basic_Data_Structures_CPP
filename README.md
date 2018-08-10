@@ -1,4 +1,4 @@
 ## Implementation of Basic Data Structures using C++ language
 
-* DEQUE TEMPLATE
+* DEQUE Template
 * DYNAMIC ARRAY
