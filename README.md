@@ -1,2 +1,3 @@
-# Data_Structures_Implementation
-Implementation of basic CPP Data Structure including basic functionality test cases.
+# Implementation of Basic Data Structures using C++ language
+
+* ARRAY (Dynamic Array and 2-Dimensional Array)
