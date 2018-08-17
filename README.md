@@ -4,3 +4,4 @@
 * DYNAMIC ARRAY data structure
 * LIST Template data structure
 * SET Template data structure
+* STACK data structure
