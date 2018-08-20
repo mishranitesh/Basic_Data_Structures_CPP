@@ -6,3 +6,4 @@
 * SET Template data structure
 * STACK data structure
 * STRING implementation
+* VECTOR Template data structure
